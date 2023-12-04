@@ -1,6 +1,4 @@
 source "https://rubygems.org"
-gemspec
-source "https://rubygems.org"
 ruby "~> 3.2.x"
 
 gem "jekyll-github-metadata", ">= 2.15"
